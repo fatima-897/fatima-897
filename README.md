@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/d7/63/e0/d763e03e87e9ae7841ff5990c299dd5e.jpg" alt="fatima-897" />
+<img align="center" src="https://i.pinimg.com/736x/d7/63/e0/d763e03e87e9ae7841ff5990c299dd5e.jpg" alt="fatima-897" />
 <h1 align="center">Hi 👋, I'm Fatima Nahid</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
