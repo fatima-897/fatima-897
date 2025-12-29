@@ -35,18 +35,6 @@
 ### ⚙️ Tools & DevOps
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)
 
-# 📊 GitHub Stats:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fatima-897&theme=solarized-light&hide_border=false&count_private=true" alt="Stats" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatima-897&theme=solarized-light&hide_border=false&layout=compact" alt="Top Langs" />
-</p>
-
-### 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=fatima-897&theme=darcula&no-frame=false&margin-w=4" alt="Trophies" />
-</p>
-
 ### ✍️ Random Dev Quote
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
