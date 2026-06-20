@@ -48,10 +48,6 @@ Software Engineering Student — Flutter & MERN enthusiast. Experienced with PHP
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
 
-**Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white)
-
 ---
 
 ## 🚀 Featured Projects
@@ -69,11 +65,11 @@ Software Engineering Student — Flutter & MERN enthusiast. Experienced with PHP
 
 Below are placeholder images. Replace them with your real screenshots or a short GIF demonstrating the app flows. Place your images under `/assets/screenshots/` and keep the same file names to update automatically.
 
-![Mobile demo](assets/screenshots/mobile-placeholder.svg)
+![Mobile demo](assets/screenshots/mobile.png)
 
-![Desktop demo](assets/screenshots/desktop-placeholder.svg)
+![Desktop demo](assets/screenshots/desktop.png)
 
-![Checkout demo](assets/screenshots/checkout-placeholder.svg)
+![Checkout demo](assets/screenshots/checkout.gif)
 
 *Recommended sizes: mobile ~1080×1920, desktop ~1200×628.*
 
