@@ -12,6 +12,7 @@ Software Engineering Student — Flutter & MERN enthusiast. Experienced with PHP
 - [About Me](#about-me)
 - [Tech Stack](#tech-stack)
 - [Featured Projects](#featured-projects)
+- [Demo / Screenshots](#demo--screenshots)
 - [What I'm Learning](#what-im-learning)
 - [Let's Connect](#lets-connect)
 
@@ -61,6 +62,20 @@ Software Engineering Student — Flutter & MERN enthusiast. Experienced with PHP
 | **CARE Hospital Management System** | PHP, MySQL, RBAC | 🏥 Full hospital management with 15+ table relational schema, role-based auth, and complete CRUD appointment system |
 | **BookNest** | ASP.NET MVC, C#, SQL Server | 📚 Full-stack bookstore featuring Repository Pattern architecture and custom cart logic |
 | **Authorization-system** | PHP | 🔐 Standalone role-based authorization module |
+
+---
+
+## Demo / Screenshots
+
+Below are placeholder images. Replace them with your real screenshots or a short GIF demonstrating the app flows. Place your images under `/assets/screenshots/` and keep the same file names to update automatically.
+
+![Mobile demo](assets/screenshots/mobile-placeholder.svg)
+
+![Desktop demo](assets/screenshots/desktop-placeholder.svg)
+
+![Checkout demo](assets/screenshots/checkout-placeholder.svg)
+
+*Recommended sizes: mobile ~1080×1920, desktop ~1200×628.*
 
 ---
 
